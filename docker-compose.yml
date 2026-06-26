@@ -1,0 +1,4 @@
+version: '3.9'
+
+services:
+  # Services will be defined here (Redis in Week 2, API/Worker in Week 3)
